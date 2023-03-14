@@ -1,20 +1,24 @@
 [
   {
     "id": 1,
-    "projectTitle": "Project 1",
-    "projectDescription": "This is Project 1.",
-    "projectImage": "https://placehold.co/200"
+    "projectTitle": "Team Profile Generator",
+    "projectDescription": "This project is a Node.js command-line application that dynamically generates an HTML page from user collected input. User input is collected via prompts generated using the Inquirer.js package. Prompts rely on Class constructors, which are validated through Jest tests.",
+    "projectImage": "https://placehold.co/200",
+    "projectCodeLink": "https://github.com/vcdsc/team-profile-generator"
   },
   {
     "id": 2,
-    "projectTitle": "Project 2",
-    "projectDescription": "This is Project 2.",
-    "projectImage": "https://placehold.co/200"
+    "projectTitle": "README Generator",
+    "projectDescription": "This project is a command-line application that dynamically generates a README.md file based on user input.",
+    "projectImage": "https://placehold.co/200",
+    "projectCodeLink": "https://github.com/vcdsc/README-generator"
   },
   {
     "id": 3,
-    "projectTitle": "Project 3",
-    "projectDescription": "This is Project 3.",
-    "projectImage": "https://placehold.co/200"
+    "projectTitle": "Ode to Code",
+    "projectDescription": "An homage to poetry and technology, OdeToCode allows a user to run multiple types of searches on the topic of poetry and save their thoughts on their preferred poems on a Poetry Journal. OdeToCode accepts and reacts to user input, by way of searches the user can run. Multiple search options are available.",
+    "projectImage": "https://placehold.co/200",
+    "projectCodeLink": "https://github.com/vcdsc/OdeToCode",
+    "projectLiveLink": "https://marinabtc.github.io/OdeToCode/index.html"
   }
 ]

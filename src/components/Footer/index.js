@@ -7,7 +7,7 @@ function Footer() {
       <div className="text-center p-4">
         © 2023{" "}
         <a
-          class="text-reset fw-bold"
+          className="text-reset fw-bold"
           href="https://github.com/vcdsc"
           target="_blank"
           rel="noreferrer"
